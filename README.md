@@ -3,4 +3,4 @@ Built a Tinder-Clone using MERN stack and deployed the backend on: https://tinde
 
 # Checkout the App live on:
 
-<a href="https://tinder-clone-55249.web.app/"></a>
+<a href="https://tinder-clone-55249.web.app/">https://tinder-clone-55249.web.app/</a>
